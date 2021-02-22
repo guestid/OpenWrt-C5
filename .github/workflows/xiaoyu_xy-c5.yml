@@ -12,7 +12,6 @@ name: Build XiaoYu XY-C5 OpenWrt
 
 on:
   repository_dispatch:
-    types: [Trigger_build]
   workflow_dispatch:
     inputs:
       ssh:
