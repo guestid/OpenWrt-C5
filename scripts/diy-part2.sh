@@ -42,7 +42,7 @@ git clone --depth=1 https://github.com/tty228/luci-app-serverchan
 git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 
 # Add dnsfilter
-git clone --depth=1 -b master https://github.com/garypang13/luci-app-dnsfilter
+git clone --depth=1 https://github.com/garypang13/luci-app-dnsfilter
 
 # Add luci-app-onliner (need luci-app-nlbwmon)
 git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
