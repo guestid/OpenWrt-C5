@@ -20,6 +20,10 @@ pushd package/community
 # Add Lienol's Packages
 git clone --depth=1 https://github.com/Lienol/openwrt-package
 
+# Add OpenWrt's Packages
+git clone --depth=1 https://github.com/openwrt/luci/tree/master/applications/luci-app-acme
+git clone --depth=1 https://github.com/openwrt/packages/tree/master/net/acme
+
 # Add dnsfilter
 git clone --depth=1 https://github.com/garypang13/luci-app-dnsfilter
 
@@ -48,7 +52,7 @@ git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
 
 # Add luci-app-adguardhome
-# svn co https://github.com/Lienol/openwrt/trunk/package/diy/luci-app-adguardhome
+git clone --depth=1 https://github.com/SuLingGG/luci-app-adguardhome
 
 # Add luci-app-diskman
 git clone --depth=1 https://github.com/SuLingGG/luci-app-diskman
@@ -68,7 +72,13 @@ git clone --depth=1 -b 18.06 https://github.com/jerrykuku/luci-theme-argon
 git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
 rm -rf ../lean/luci-theme-argon
 
-# Add luci-theme-argon
+# Use immortalwrt's luci-app-netdata & netdata
+rm -rf ../lean/luci-app-netdata
+rm -rf ../../feeds/packages/admin/netdata
+svn co https://github.com/immortalwrt/immortalwrt/trunk/package/ntlf9t/luci-app-netdata
+svn co https://github.com/immortalwrt/packages/trunk/admin/netdata
+
+# Add luci-theme-rosy
 git clone --depth=1 -b openwrt-18.06 https://github.com/shiyu1314/luci-theme-rosy
 rm -rf ../lean/luci-theme-rosy
 

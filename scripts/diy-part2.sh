@@ -48,7 +48,7 @@ git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
 
 # Add luci-app-adguardhome
-# svn co https://github.com/Lienol/openwrt/trunk/package/diy/luci-app-adguardhome
+git clone --depth=1 https://github.com/SuLingGG/luci-app-adguardhome
 
 # Add luci-app-diskman
 git clone --depth=1 https://github.com/SuLingGG/luci-app-diskman
@@ -67,6 +67,16 @@ git clone --depth=1 https://github.com/project-openwrt/openwrt-gowebdav
 git clone --depth=1 -b 18.06 https://github.com/jerrykuku/luci-theme-argon
 git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
 rm -rf ../lean/luci-theme-argon
+
+# Add luci-theme-rosy
+git clone --depth=1 -b openwrt-18.06 https://github.com/shiyu1314/luci-theme-rosy
+rm -rf ../lean/luci-theme-rosy
+
+# Use immortalwrt's luci-app-netdata & netdata
+rm -rf ../lean/luci-app-netdata
+rm -rf ../../feeds/packages/admin/netdata
+svn co https://github.com/immortalwrt/immortalwrt/trunk/package/ntlf9t/luci-app-netdata
+svn co https://github.com/immortalwrt/packages/trunk/admin/netdata
 
 # Add tmate
 git clone --depth=1 https://github.com/project-openwrt/openwrt-tmate
