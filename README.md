@@ -3,7 +3,7 @@
 </a>
 
 [![若部分图片无法正常显示，请挂上机场浏览或点这里到末尾看修复教程](https://visitor-badge.glitch.me/badge?page_id=OpenWrt-DIY-visitor-badge)](#解决-github-网页上图片显示失败的问题) [![](https://img.shields.io/github/last-commit/coolsnowwolf/lede/master?color=FFFFFF&label=%E6%BA%90%E7%A0%81%E6%9B%B4%E6%96%B0)](https://github.com/coolsnowwolf/lede) [![](https://img.shields.io/github/release-date/IvanSolis1989/OpenWrt-DIY?color=FFFFFF&label=%E5%9B%BA%E4%BB%B6%E6%9B%B4%E6%96%B0)](https://github.com/IvanSolis1989/OpenWrt-DIY/actions) [![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)<br/>
-[![](https://img.shields.io/badge/-主要功能:-696969.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-DIY%E6%8F%92%E4%BB%B6%E9%A2%84%E8%A7%88) ![](https://img.shields.io/badge/-SSR_Plus+-FFFFFF.svg) ![](https://img.shields.io/badge/-PassWall-FFFFFF.svg) ![](https://img.shields.io/badge/-OpenClash-FFFFFF.svg) ![](https://img.shields.io/badge/-AdGuard_Home-FFFFFF.svg) ![](https://img.shields.io/badge/-广告屏蔽大师_Plus+-FFFFFF.svg) ![](https://img.shields.io/badge/-Samba-FFFFFF.svg) ![](https://img.shields.io/badge/-CIFSD-FFFFFF.svg) ![](https://img.shields.io/badge/-FTP-FFFFFF.svg) ![](https://img.shields.io/badge/-SFTP-FFFFFF.svg) ![](https://img.shields.io/badge/-NFS-FFFFFF.svg) ![](https://img.shields.io/badge/-DLNA-FFFFFF.svg) ![](https://img.shields.io/badge/-Aria2-FFFFFF.svg) ![](https://img.shields.io/badge/-Transmission-FFFFFF.svg) ![](https://img.shields.io/badge/-qBittorrent-FFFFFF.svg) ![](https://img.shields.io/badge/-AirPlay2-FFFFFF.svg) ![](https://img.shields.io/badge/-解锁网易云灰色歌曲-FFFFFF.svg) ![](https://img.shields.io/badge/-UPNP-FFFFFF.svg) ![](https://img.shields.io/badge/-京东签到服务-FFFFFF.svg) ![](https://img.shields.io/badge/-IPv6_加速-FFFFFF.svg) ![](https://img.shields.io/badge/-BBR_加速-FFFFFF.svg) ![](https://img.shields.io/badge/-FULLCONE_NAT_加速-FFFFFF.svg) ![](https://img.shields.io/badge/-SFE_加速-FFFFFF.svg) ![](https://img.shields.io/badge/-HWNAT_加速-FFFFFF.svg) ![](https://img.shields.io/badge/-桥接加速-FFFFFF.svg) ![](https://img.shields.io/badge/-DDNS-FFFFFF.svg) ![](https://img.shields.io/badge/-Docker_容器-FFFFFF.svg) ![](https://img.shields.io/badge/-ARP_绑定-FFFFFF.svg) ![](https://img.shields.io/badge/-Frpc_NPS_内网穿透-FFFFFF.svg) ![](https://img.shields.io/badge/-多线多拨-FFFFFF.svg) ![](https://img.shields.io/badge/-负载均衡-FFFFFF.svg) ![](https://img.shields.io/badge/-SQM_Qos-FFFFFF.svg) ![](https://img.shields.io/badge/-文件助手-FFFFFF.svg) ![](https://img.shields.io/badge/-文件浏览器-FFFFFF.svg) ![](https://img.shields.io/badge/-可道云-FFFFFF.svg) ![](https://img.shields.io/badge/-Rclone-FFFFFF.svg) ![](https://img.shields.io/badge/-SmartDNS-FFFFFF.svg) ![](https://img.shields.io/badge/-网络唤醒-FFFFFF.svg) ![](https://img.shields.io/badge/-TTYD_终端-FFFFFF.svg) ![](https://img.shields.io/badge/-迅雷快鸟-FFFFFF.svg) ![](https://img.shields.io/badge/-USB_打印服务器-FFFFFF.svg) ![](https://img.shields.io/badge/-KMS_服务器-FFFFFF.svg) ![](https://img.shields.io/badge/-微信推送-FFFFFF.svg) ![](https://img.shields.io/badge/-上网时间控制-FFFFFF.svg) ![](https://img.shields.io/badge/-WatchCat-FFFFFF.svg) ![](https://img.shields.io/badge/-天翼家庭云盘提速-FFFFFF.svg) ![](https://img.shields.io/badge/-各种驱动-FFFFFF.svg) ![](https://img.shields.io/badge/-NetKeeper-FFFFFF.svg) ![](https://img.shields.io/badge/-DNS_Filter-FFFFFF.svg) ![](https://img.shields.io/badge/-持续更新中……-FFFFFF.svg)
+[![](https://img.shields.io/badge/-主要功能:-696969.svg)](https://github.com/IvanSolis1989/OpenWrt-DIY/wiki/OpenWrt-DIY%E6%8F%92%E4%BB%B6%E9%A2%84%E8%A7%88) ![](https://img.shields.io/badge/-SSR_Plus+-FFFFFF.svg) ![](https://img.shields.io/badge/-PassWall-FFFFFF.svg) ![](https://img.shields.io/badge/-OpenClash-FFFFFF.svg) ![](https://img.shields.io/badge/-AdGuard_Home-FFFFFF.svg) ![](https://img.shields.io/badge/-广告屏蔽大师_Plus+-FFFFFF.svg) ![](https://img.shields.io/badge/-Samba-FFFFFF.svg) ![](https://img.shields.io/badge/-CIFSD-FFFFFF.svg) ![](https://img.shields.io/badge/-FTP-FFFFFF.svg) ![](https://img.shields.io/badge/-SFTP-FFFFFF.svg) ![](https://img.shields.io/badge/-NFS-FFFFFF.svg) ![](https://img.shields.io/badge/-DLNA-FFFFFF.svg) ![](https://img.shields.io/badge/-Aria2-FFFFFF.svg) ![](https://img.shields.io/badge/-Transmission-FFFFFF.svg) ![](https://img.shields.io/badge/-qBittorrent-FFFFFF.svg) ![](https://img.shields.io/badge/-AirPlay2-FFFFFF.svg) ![](https://img.shields.io/badge/-解锁网易云灰色歌曲-FFFFFF.svg) ![](https://img.shields.io/badge/-UPnP-FFFFFF.svg) ![](https://img.shields.io/badge/-京东签到服务-FFFFFF.svg) ![](https://img.shields.io/badge/-IPv6_加速-FFFFFF.svg) ![](https://img.shields.io/badge/-BBR_加速-FFFFFF.svg) ![](https://img.shields.io/badge/-FullCone_NAT_加速-FFFFFF.svg) ![](https://img.shields.io/badge/-SFE_加速-FFFFFF.svg) ![](https://img.shields.io/badge/-HWNAT_加速-FFFFFF.svg) ![](https://img.shields.io/badge/-桥接加速-FFFFFF.svg) ![](https://img.shields.io/badge/-DDNS-FFFFFF.svg) ![](https://img.shields.io/badge/-Docker_容器-FFFFFF.svg) ![](https://img.shields.io/badge/-ARP_绑定-FFFFFF.svg) ![](https://img.shields.io/badge/-Frpc_NPS_内网穿透-FFFFFF.svg) ![](https://img.shields.io/badge/-多线多拨-FFFFFF.svg) ![](https://img.shields.io/badge/-负载均衡-FFFFFF.svg) ![](https://img.shields.io/badge/-SQM_Qos-FFFFFF.svg) ![](https://img.shields.io/badge/-文件助手-FFFFFF.svg) ![](https://img.shields.io/badge/-文件浏览器-FFFFFF.svg) ![](https://img.shields.io/badge/-可道云-FFFFFF.svg) ![](https://img.shields.io/badge/-Rclone-FFFFFF.svg) ![](https://img.shields.io/badge/-SmartDNS-FFFFFF.svg) ![](https://img.shields.io/badge/-网络唤醒-FFFFFF.svg) ![](https://img.shields.io/badge/-TTYD_终端-FFFFFF.svg) ![](https://img.shields.io/badge/-迅雷快鸟-FFFFFF.svg) ![](https://img.shields.io/badge/-USB_打印服务器-FFFFFF.svg) ![](https://img.shields.io/badge/-KMS_服务器-FFFFFF.svg) ![](https://img.shields.io/badge/-微信推送-FFFFFF.svg) ![](https://img.shields.io/badge/-上网时间控制-FFFFFF.svg) ![](https://img.shields.io/badge/-WatchCat-FFFFFF.svg) ![](https://img.shields.io/badge/-天翼家庭云盘提速-FFFFFF.svg) ![](https://img.shields.io/badge/-各种驱动-FFFFFF.svg) ![](https://img.shields.io/badge/-NetKeeper-FFFFFF.svg) ![](https://img.shields.io/badge/-DNS_Filter-FFFFFF.svg) ![](https://img.shields.io/badge/-持续更新中……-FFFFFF.svg)
  
 [OpenWrt DIY — 多设备固件云编译](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)
 ======================
@@ -117,20 +117,27 @@
 
 ## 近期更新 [![](https://img.shields.io/badge/-近期固件更新-FFFFFF.svg)](#近期更新-)
 
-1. 采用 [Argon 主题](https://github.com/jerrykuku/luci-theme-argon)，界面更美丽。
+1. 默认 [Argon 主题](https://github.com/jerrykuku/luci-theme-argon)，界面更美丽。
 
 <details>
  <summary>&nbsp;&nbsp;&nbsp; Argon 主题效果图</summary>
    
 <br/>
-    
-<img src="https://raw.githubusercontent.com/jerrykuku/staff/master/argon2.gif" alt="图裂了😂需要机场才能正常显示"/><br/>
-<img src="https://img.vim-cn.com/65/37b71b446767d67c388b9507fb9cbf2f1d4462.jpg" alt="图裂了😂需要机场才能正常显示"/><br/> 
+<div align=center><img src="https://raw.githubusercontent.com/jerrykuku/staff/master/argon2.gif" alt="图裂了😂需要机场才能正常显示"/></div>
+<div align=center><img src="https://img.vim-cn.com/65/37b71b446767d67c388b9507fb9cbf2f1d4462.jpg" alt="图裂了😂需要机场才能正常显示"/></div>
 </details>
 
-2. **不再定时编译**，所有设备改为每周五查询大雕源码是否有更新，有更新就自动编译，无更新编译就会自动延迟到下周五。
+2. 加入 [ROSY 主题](https://github.com/rosywrt/luci-theme-rosy) 可选
 
-3. **默认 IP 调整为：192.168.10.1，默认密码：password。**
+<details>
+ <summary>&nbsp;&nbsp;&nbsp; ROSY 主题效果图</summary>
+   
+<br/>
+<div align=center><img src="https://raw.githubusercontent.com/rosywrt/luci-theme-rosy/openwrt-18.06/previews/login-pc.png" alt="图裂了😂需要机场才能正常显示"/></div>
+<div align=center><img src="https://raw.githubusercontent.com/rosywrt/luci-theme-rosy/openwrt-18.06/previews/overview-pc.png" alt="图裂了😂需要机场才能正常显示"/></div>
+</details>
+
+3. `默认 IP 调整为：192.168.10.1，默认密码：password。`
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" alt="图裂了😂" title="返回顶部" align="right"/>
@@ -138,18 +145,18 @@
 
 ## 注意事项 [![](https://img.shields.io/badge/-下载注意事项-FFFFFF.svg)](#注意事项-)
 
-1. 在固件编译完成后，会上传一份副本到 WeTransfer 和 奶牛快传，对于国内网络用户，为提高下载体验，可下载存放于这两个网站中的固件副本，副本下载地址位于固件下载页面中固件文件列表下的 Annotations 提示框内，几天之后网盘内的文件会失效，所以推荐周五~周日上去下载；
+1. 在固件编译完成后，会上传一份副本到 WeTransfer 和 奶牛快传，对于国内网络用户，为提高下载体验，可下载存放于这两个网站中的固件副本，副本下载地址位于固件下载页面中固件文件列表下的 Annotations 提示框内，`一段时间后（1~3天）网盘内的文件会失效`，所以推荐周五~周日下载最新版；
 <details>
- <summary>&nbsp;&nbsp;&nbsp;还是找不到？点击这里！</summary>
+ <summary>&nbsp;&nbsp;&nbsp;找不到？请点击这里！</summary>
  
 <br/>
-<img src="https://img.vim-cn.com/ef/2481045f0a6fac8ee6c0c437b5c225ee880295.png" alt="图裂了😂"/><br/>    
-<img src="https://img.vim-cn.com/e9/1b273967817d9eaf78869e06a0069939354d43.png" alt="图裂了😂"/><br/>
+<div align=center><img src="https://img.vim-cn.com/ef/2481045f0a6fac8ee6c0c437b5c225ee880295.png" alt="图裂了😂需要机场才能正常显示"/></div>
+<div align=center><img src="https://img.vim-cn.com/f8/d5f01cc3e33460963635eb7b7cf5a472859f88.png" alt="图裂了😂需要机场才能正常显示"/></div>
 </details>
 
-2. 在极少数情况下，因网络原因这两份副本可能会上传失败，如果遇到这种情况，就只能下载存放在 Github Action 里的固件了，由于 Github Action 限制，需要登录 Github 账号才可下载存放于 Github Action 中的固件 `(未登录时固件链接不可被点击)`，但 WeTransfer 和 奶牛快传 的固件下载链接在未登录状态下可正常查看，不受影响；
+2. 在极少数情况下，因网络原因这两份副本可能会上传失败，如果遇到这种情况，就只能下载存放在 Github Action 里的固件了，由于 Github Action 限制，`需要登录 Github 账号才可下载存放于 Github Action 中的固件 (未登录时固件链接不可被点击)`，但 WeTransfer 和 奶牛快传 的固件下载链接在未登录状态下可正常查看，不受影响；
 
-3. 如果需要下载存放于 Github Action 上的固件，由于众所周知的原因，请尽量使用科学上网方式下载固件，固件下载完成后，请下载 sha256sums 文件或使用压缩软件的 "测试压缩文件" 功能来验证固件的完整性。
+3. 如果需要下载存放于 Github Action 上的固件，由于众所周知的原因，`请尽量使用科学上网方式下载固件`，固件下载完成后，请下载 sha256sums 文件或使用压缩软件的 "测试压缩文件" 功能来验证固件的完整性。
 
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" alt="图裂了😂" title="返回顶部" align="right"/>
@@ -157,10 +164,10 @@
 
 ## 小贴士 [![](https://img.shields.io/badge/-日常使用技巧及教程-FFFFFF.svg)](#小贴士-)
 
-**本栏目包含了很多 OpenWrt 日常使用问题解决方案、“不可描述”的教程、广告屏蔽教程，NAS（或路由器共享盘）的多媒体文件整理播放教程、OpenWrt 本地自编译教程。**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 本栏目包含了很多 OpenWrt 日常使用问题解决方案、“不可描述”的教程、广告屏蔽教程，NAS（或路由器共享盘）的多媒体文件整理播放教程、OpenWrt 本地自编译教程。
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; 基础常用</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; 基础常用</summary>
 
 <br/>
 
@@ -175,7 +182,7 @@
 </details>
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; USB 网卡</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; USB 网卡</summary>
 
 <br/>
 
@@ -194,7 +201,7 @@
 </details>
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; 不可描述</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; 不可描述</summary>
 
 <br/>
 
@@ -215,7 +222,7 @@
 </details>
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; 广告屏蔽</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; 广告屏蔽</summary>
 
 <br/>
 
@@ -228,7 +235,7 @@
 </details>
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; NAS 影院</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; NAS 影院</summary>
 
 <br/>
 
@@ -239,7 +246,7 @@
 </details>
 
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; 本地编译</b></summary>
+ <summary>&nbsp;&nbsp;&nbsp; 本地编译</summary>
 
 <br/>
 
@@ -261,9 +268,9 @@
 
 ## 捐助 [![](https://img.shields.io/badge/-请我喝咖啡啦-FFFFFF.svg)](#捐助-)
 
-**若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目··请作者喝杯咖啡~~~
 
-**你们的支持就是我的动力！**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 你们的支持就是我的动力！
 
 ### 捐助方式
 
