@@ -151,3 +151,5 @@ popd
 #sed -i 's/KERNEL_TESTING_PATCHVER:=5.4/KERNEL_TESTING_PATCHVER:=4.14/g' target/linux/ramips/Makefile
 
 
+# Add dnsfilter
+git clone --depth=1 -b master https://github.com/garypang13/luci-app-dnsfilter
