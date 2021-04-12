@@ -48,6 +48,9 @@ git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 # Add dnsfilter
 git clone --depth=1 https://github.com/garypang13/luci-app-dnsfilter
 
+# Add OpenAppFilter
+git clone --depth=1 https://github.com/destan19/OpenAppFilter.git
+
 # Add luci-app-onliner
 git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
 
