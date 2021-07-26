@@ -24,6 +24,12 @@ pushd package/community
 
 # Add Lienol's Packages
 git clone --depth=1 https://github.com/Lienol/openwrt-package
+rm -rf ../lean/luci-app-kodexplorer
+
+# Add immortalwrt's Packages
+git clone --depth=1 -b openwrt-18.06 https://github.com/immortalwrt/packages
+git clone --depth=1 -b openwrt-18.06-k5.4 https://github.com/immortalwrt/luci
+cp -r ../luci/applications/luci-app-adguardhome ../package/lean//luci-app-adguardhome
 
 # Add luci-app-passwall
 git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall
@@ -31,10 +37,6 @@ git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall
 # Add luci-app-vssr <M>
 git clone --depth=1 https://github.com/jerrykuku/lua-maxminddb.git
 git clone --depth=1 https://github.com/jerrykuku/luci-app-vssr
-
-# Add mentohust & luci-app-mentohust
-git clone --depth=1 https://github.com/BoringCat/luci-app-mentohust
-git clone --depth=1 https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk
 
 # Add luci-proto-minieap
 git clone --depth=1 https://github.com/ysc3839/luci-proto-minieap
@@ -44,12 +46,6 @@ git clone --depth=1 https://github.com/tty228/luci-app-serverchan
 
 # Add OpenClash
 git clone --depth=1 -b master https://github.com/vernesong/OpenClash
-
-# Add dnsfilter
-git clone --depth=1 https://github.com/garypang13/luci-app-dnsfilter
-
-# Add OpenAppFilter
-git clone --depth=1 https://github.com/destan19/OpenAppFilter.git
 
 # Add luci-app-onliner
 git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
@@ -61,7 +57,7 @@ cp luci-app-diskman/Parted.Makefile parted/Makefile
 
 # Add luci-app-dockerman
 rm -rf ../lean/luci-app-docker
-git clone --depth=1 https://github.com/KFERMercer/luci-app-dockerman
+git clone --depth=1 https://github.com/lisaac/luci-app-dockerman
 git clone --depth=1 https://github.com/lisaac/luci-lib-docker
 
 # Add luci-theme-argon
@@ -73,17 +69,25 @@ rm -rf ../lean/luci-theme-argon
 git clone --depth=1 https://github.com/tindy2013/openwrt-subconverter
 
 # Add luci-udptools
-git clone --depth=1 https://github.com/zcy85611/openwrt-luci-kcp-udp
+svn co https://github.com/zcy85611/Openwrt-Package/trunk/luci-udptools
+svn co https://github.com/zcy85611/Openwrt-Package/trunk/udp2raw
+svn co https://github.com/zcy85611/Openwrt-Package/trunk/udpspeeder-tunnel
 
 # Add OpenAppFilter
-git clone --depth=1 https://github.com/destan19/OpenAppFilter
+git clone --depth 1 -b oaf-3.0.1 https://github.com/destan19/OpenAppFilter.git
 
 # Add luci-app-oled (R2S Only)
 git clone --depth=1 https://github.com/NateLol/luci-app-oled
 
-# Add driver for rtl8821cu & rtl8812au-ac
+# Add extra wireless drivers
 svn co https://github.com/immortalwrt/immortalwrt/branches/openwrt-18.06-k5.4/package/kernel/rtl8812au-ac
 svn co https://github.com/immortalwrt/immortalwrt/branches/openwrt-18.06-k5.4/package/kernel/rtl8821cu
+svn co https://github.com/immortalwrt/immortalwrt/branches/openwrt-18.06-k5.4/package/kernel/rtl8188eu
+svn co https://github.com/immortalwrt/immortalwrt/branches/openwrt-18.06-k5.4/package/kernel/rtl8192du
+svn co https://github.com/immortalwrt/immortalwrt/branches/openwrt-18.06-k5.4/package/kernel/rtl88x2bu
+
+# Add apk (Apk Packages Manager)
+svn co https://github.com/openwrt/packages/trunk/utils/apk
 popd
 
 # Mod zzz-default-settings
