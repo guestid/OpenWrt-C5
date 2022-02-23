@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build XiaoYu XY-C5 OpenWrt
+name: Build XiaoYu XY-C5
 
 on:
   repository_dispatch:
