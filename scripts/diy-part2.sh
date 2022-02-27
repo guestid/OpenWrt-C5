@@ -80,7 +80,7 @@ svn co https://github.com/zcy85611/Openwrt-Package/trunk/udp2raw
 svn co https://github.com/zcy85611/Openwrt-Package/trunk/udpspeeder-tunnel
 
 #luci-app-aliyundrive-webdav
-svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-aliyundrive-webdav
+#svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-aliyundrive-webdav
 
 
 # Add OpenAppFilter
