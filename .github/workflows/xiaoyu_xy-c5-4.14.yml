@@ -61,7 +61,7 @@ jobs:
         git clone $REPO_URL -b $REPO_BRANCH openwrt
 
         cd openwrt
-        git checkout 54559d858a40f65b957cbea452eed953ed2a039d
+#        git checkout 54559d858a40f65b957cbea452eed953ed2a039d
         cd ..
 
         ln -sf /workdir/openwrt $GITHUB_WORKSPACE/openwrt
