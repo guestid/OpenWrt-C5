@@ -8,6 +8,8 @@
 
 [Lean 的 OpenWrt 库](https://github.com/coolsnowwolf/lede)
 
+[immortalwrt 的 OpenWrt 库](https://github.com/immortalwrt/immortalwrt)
+
 [Lienol 的 Packages 库](https://github.com/Lienol/openwrt-packages)
 
 [SuLingGG 的 OpenWrt-Rpi 库](https://github.com/SuLingGG/OpenWrt-Rpi)
