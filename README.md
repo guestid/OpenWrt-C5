@@ -1,6 +1,4 @@
 
-
-## 鸣谢 [![](https://img.shields.io/badge/-跪谢各大佬-FFFFFF.svg)](#鸣谢-)
  
 [OpenWrt 官方库](https://github.com/openwrt/openwrt)
 
@@ -16,10 +14,10 @@
 
 
 执行以下命令即可将ipv6-helper 脚本安装至固件：
+`wget --no-check-certificate -O "/usr/bin/ipv6-helper" https://openwrt.cc/scripts/ipv6-helper.sh`
 
-wget --no-check-certificate -O "/usr/bin/ipv6-helper" https://openwrt.cc/scripts/ipv6-helper.sh
+`chmod +x /usr/bin/ipv6-helper`
 
-chmod +x /usr/bin/ipv6-helper
 
 ipv6-helper install: 安装 IPV6 模块并将 IPV6 配置为混合 (Hybrid) 模式 (默认)
 
