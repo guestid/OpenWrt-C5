@@ -14,6 +14,7 @@
 
 
 执行以下命令即可将ipv6-helper 脚本安装至固件：
+
 `wget --no-check-certificate -O "/usr/bin/ipv6-helper" https://openwrt.cc/scripts/ipv6-helper.sh`
 
 `chmod +x /usr/bin/ipv6-helper`
