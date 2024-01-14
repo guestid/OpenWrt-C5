@@ -1,4 +1,4 @@
-
+xiaoyu_xy-c5优先选4.14，稳定，有线基本能跑慢千兆
  
 [OpenWrt 官方库](https://github.com/openwrt/openwrt)
 
