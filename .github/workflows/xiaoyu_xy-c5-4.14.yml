@@ -77,9 +77,7 @@ jobs:
         root-reserve-mb: 1024
         
     - name: Clone source code
-      working-directory: /workdir
       run: |
-        cd $OPENWRT_PATH
         df -hT $PWD
         git clone $REPO_URL -b $REPO_BRANCH openwrt
         ln -sf /workdir/openwrt $GITHUB_WORKSPACE/openwrt
