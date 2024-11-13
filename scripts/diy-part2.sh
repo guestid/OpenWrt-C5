@@ -17,7 +17,7 @@ sed -i 's/192.168.1.1/192.168.10.1/g' package/base-files/files/bin/config_genera
 #sed -i '/uci commit system/i\uci set system.@system[0].hostname='OpenWrt'' package/lean/default-settings/files/zzz-default-settings
 
 # Rename hostname to OpenWrt
-sed -i 's/ImmortalWrt/OpenWrt/g' package/base-files/files/bin/config_generate
+#sed -i 's/ImmortalWrt/OpenWrt/g' package/base-files/files/bin/config_generate
 
 
 # Add date version
