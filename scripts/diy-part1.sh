@@ -12,5 +12,7 @@ git clone https://github.com/tty228/luci-app-serverchan.git package/lean/luci-ap
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/lean/luci-app-smartdns  #smartdns DNS加速
 git clone https://github.com/garypang13/luci-app-eqos.git package/lean/luci-app-eqos  #内网IP限速工具
 git clone --depth=1 https://github.com/fw876/helloworld
+git clone https://github.com/sirpdboy/netspeedtest.git package/netspeedtest #
+
 
  
