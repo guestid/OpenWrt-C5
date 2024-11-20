@@ -14,5 +14,9 @@ git clone https://github.com/garypang13/luci-app-eqos.git package/lean/luci-app-
 git clone --depth=1 https://github.com/fw876/helloworld
 git clone https://github.com/sirpdboy/netspeedtest.git package/netspeedtest #
 
+git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/ddns-go #动态域名插件
+
+   
+
 
  
