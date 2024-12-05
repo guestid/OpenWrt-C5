@@ -22,7 +22,7 @@ on:
 env:
   REPO_URL: https://github.com/AlphaAnother/ipq6000
   REPO_BRANCH: master
-  FEEDS_CONF: feeds.conf.default
+  FEEDS_CONF: m2.feeds.conf.default
   CONFIG_FILE: config/ARM/zn-m2 nowifi.config
   DIY_P1_SH: scripts/diy-part1.sh
   DIY_P2_SH: scripts/diy-part2.sh
