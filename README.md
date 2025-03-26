@@ -2,10 +2,15 @@ xiaoyu_xy-c5优先选openwrt-18.06，内核4.14，稳定，有线基本能跑慢
 
 升级到 5.4 内核将失去的：
 https://github.com/coolsnowwolf/lede/issues/4831
+
 效能。 5.4 内核的 Flow 比 4.19 慢了 10-18% 以上，低端硬件特别明显。
+
 闭源驱动，例如 K2P 的驱动并没有在 5.4 内核中被支持
+
 更多的 Bug ，因为 5.4 不是正式 LTS 内核，也没有 stable release 的 OpenWrt 源码
+
 5.4 内核的 DSA 驱动不支持 VLAN 交换机配置
+
 MAC80211 的 5.4 无线驱动目前测试过没有一个版本是好用的，要不就速率极低
 
  
