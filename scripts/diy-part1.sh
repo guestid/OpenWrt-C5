@@ -16,7 +16,10 @@
 #
 #git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/ddns-go #动态域名插件
 git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall #动态域名插件
-   
+
+echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main' >> openwrt/feeds.conf.default
+echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main' >> openwrt/feeds.conf.default
+
 
 
  
