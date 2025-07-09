@@ -15,7 +15,7 @@
 #git clone https://github.com/sirpdboy/netspeedtest.git package/netspeedtest #
 #
 #git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/ddns-go #动态域名插件
-
+git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall #动态域名插件
    
 
 
